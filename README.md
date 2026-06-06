@@ -6,6 +6,7 @@ This project analyzes the Future 500 dataset using SQL Server. The goal is to id
 ## Tools Used
 - SQL Server
 - Excel (Dataset Source)
+- Power Bi
 - GitHub
 
 ## Dataset Columns
