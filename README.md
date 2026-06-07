@@ -7,7 +7,7 @@ This project analyzes the Future 500 dataset using SQL Server. The goal is to id
 - SQL Server
 - Excel (Dataset Source)
 - Power Bi
-- GitHub
+
 
 ## Dataset Columns
 - ID
